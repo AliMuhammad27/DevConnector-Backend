@@ -1,0 +1,6 @@
+{
+    "DbUrl":"mongodb+srv://Ali:Ali123@devconnector.v21wl.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "JwtToken":"mysecrettoken",
+    "gitHubClientId":"52d6aba57bf688abf939",
+    "gitHubSecret":"0b21bbcd71496b54817625421482c61ea6b56172"
+}
